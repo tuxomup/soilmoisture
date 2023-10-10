@@ -12,10 +12,10 @@
 #define converted_moisture_topic "sensor1/moisture_conv"
 #define water_count_topic "sensor1/moisture_water_count"
 #define wifi_rssi "sensor1/wifi_rssi1"
-// #define batt_pin A1    // select the input pin for battery voltage
-#define readCount 4 //the average counter, comment for single read
+
+#define readCount 4 //the average counter, comment for single read if disabled, reads once.
 // #define POWER 13 // for sensor power management, POWER is the power pin
-#ifdef DateTimeOption
+#ifdef DateTimeOption  // timestamps in the serial output, for debug reasons.
 
 #include "WiFiUdp.h"
 #include "NTPClient.h"
