@@ -14,7 +14,7 @@
 #define wifi_rssi "sensor1/wifi_rssi1"
 // #define batt_pin A1    // select the input pin for battery voltage
 #define readCount 4 //the average counter, comment for single read
-#define POWER 13 // for sensor power management, POWER is the power pin
+// #define POWER 13 // for sensor power management, POWER is the power pin
 #ifdef DateTimeOption
 
 #include "WiFiUdp.h"
