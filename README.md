@@ -7,6 +7,6 @@ for the soil moisture sensor
 
   
 credits: 
-Andreas Spiess (https://www.youtube.com/watch?v=m0mcCtcViTY)
-Nick Gammon (http://www.gammon.com.au/forum/?id=12106)
-MakerPortal  (https://makersportal.com/blog/2020/5/26/capacitive-soil-moisture-calibration-with-arduino)
+- Andreas Spiess (https://www.youtube.com/watch?v=m0mcCtcViTY)
+- Nick Gammon (http://www.gammon.com.au/forum/?id=12106)
+- MakerPortal  (https://makersportal.com/blog/2020/5/26/capacitive-soil-moisture-calibration-with-arduino)
